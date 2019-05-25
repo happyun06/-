@@ -1,0 +1,17 @@
+size(480,120);
+//arc(90,60,80,80,0,HALF_PI);
+//arc(190,60,80,80,0,PI+HALF_PI);
+//arc(290,60,80,80,PI,TWO_PI+HALF_PI);
+//arc(390,60,80,80,QUARTER_PI,PI+QUARTER_PI);
+//arc(100,100,80,80,QUARTER_PI+PI,QUARTER_PI);
+//PIE=3.14159265358979323846264338327950288419716939937510
+
+//arc(90,60,80,80,0,radians(90));
+//arc(190,60,80,80,0,radians(270));
+//arc(290,60,80,80,radians(180),radians(450));
+//arc(390,60,80,80,radians(45),radians(226));
+//arc(원의중심좌표 x,y 원의 크기 a,b 부채꼴의 각의 크기 radians(p)~radians(q))
+
+rect(200,10,300,20);
+ellipse(160,-100,300,300);
+
